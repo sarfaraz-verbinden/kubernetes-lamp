@@ -1,4 +1,4 @@
-# k8s for  LAMP
+# k8s for  LAMP instructions
 
 Let you use Kubernetes to quickly build a lmap usage environment.
 
