@@ -7,8 +7,6 @@ The LAMP contains the following four operating environments.
 2. Apache
 3. MariaDB or MySQL
 4. PHP
-
-
 ## Build MYSQL
 
 change the folder to mysql.
